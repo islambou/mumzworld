@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "extra": {
+      "supportsRTL": true,
+      "eas": {
+        "projectId": "fdfae4d1-bf8d-46a8-8c01-c259a55c2096"
+      }
+    },
+    "android": {
+      "package": "com.islambou.mumzworld"
+    },
+    "ios": {
+      "bundleIdentifier": "com.islambou.mumzworld"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/fdfae4d1-bf8d-46a8-8c01-c259a55c2096"
+    }
+  }
+}
